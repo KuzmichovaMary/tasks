@@ -26,7 +26,7 @@
 
 ## Программа обучения
 ### Неделя #1 (6 сентября 2022)
-- [Модуль "Знакомство с RS School"](modules/rs-school-intro/)
+- :heavy_check_mark:[Модуль "Знакомство с RS School"](modules/rs-school-intro/)
 - [Модуль "Профессия \"JS/Front-end разработчик\""](modules/js-fe-developer/)
 - [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
 - [Модуль "Знакомство с системой контроля версий Git"](modules/git/) 
