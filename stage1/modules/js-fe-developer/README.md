@@ -10,8 +10,8 @@
 
 ## Теория
 - Посмотреть запись [вебинара](https://www.youtube.com/watch?v=5g1U06QjWZk).
-- Ознакомиться с [требованиями](js-l1-position-requirements.md) к JS/Front-end разработчику в EPAM 
-- Прочитать [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
+- :heavy_check_mark:Ознакомиться с [требованиями](js-l1-position-requirements.md) к JS/Front-end разработчику в EPAM 
+- :heavy_check_mark:Прочитать [рекомендации по изучению английского языка](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/materials/english.md)
 
 ## Полезные ссылки 
 - [Запись YouTube стрима "Профориентация"](https://www.youtube.com/watch?v=pQ0hr5U8RL0) - 1.5 часа
