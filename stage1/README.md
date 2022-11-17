@@ -26,10 +26,10 @@
 
 ## Программа обучения
 ### Неделя #1 (6 сентября 2022)
-- :heavy_check_mark:[Модуль "Знакомство с RS School"](modules/rs-school-intro/)
-- :heavy_check_mark:[Модуль "Профессия \"JS/Front-end разработчик\""](modules/js-fe-developer/)
+- ✔️ [Модуль "Знакомство с RS School"](modules/rs-school-intro/)
+- ✔️ [Модуль "Профессия \"JS/Front-end разработчик\""](modules/js-fe-developer/)
 - ✔️ [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
-- [Модуль "Знакомство с системой контроля версий Git"](modules/git/) 
+- ✔️ [Модуль "Знакомство с системой контроля версий Git"](modules/git/) 
 - ["Проект CV". Часть 1 "Markdown & Git"](../tasks/cv/git-markdown.md)
 - ["Проект CV". Часть 2 "HTML, CSS & Git Basics"](../tasks/cv/html-css-git.md)
 
