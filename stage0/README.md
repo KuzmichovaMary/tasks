@@ -8,9 +8,9 @@
 ## Программа обучения
 ### Неделя #1
 - :heavy_check_mark: [Модуль "Знакомство с RS School"](modules/rs-school-intro/)
-- [Модуль "Профессия \"JS/Front-end разработчик\"](modules/js-fe-developer/)
-- [Модуль "Знакомство с системой контроля версий Git"](modules/git/)
-- [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
+- ✔️ [Модуль "Профессия \"JS/Front-end разработчик\"](modules/js-fe-developer/)
+- ✔️ [Модуль "Знакомство с системой контроля версий Git"](modules/git/) (Пройти тест, когда появится)
+- ✔️ [Модуль "Chrome Dev Tools, VS Code, Terminal"](modules/basic-tools/)
 - Проект ["CV"](../tasks/cv/cv.md). 
     - ["CV#1. Markdown & Git"](../tasks/cv/git-markdown.md)
     - ["CV#2. HTML, CSS & Git Basics"](../tasks/cv/html-css-git.md)
